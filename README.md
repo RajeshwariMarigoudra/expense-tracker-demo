@@ -73,11 +73,17 @@ npm start
 
 ## 📌 API Endpoints
 Method Endpoint Description
+
 POST /api/auth/register Register a new user
+
 POST /api/auth/login Login a user
+
 POST /api/v1/addTransaction Add a transaction
+
 POST /api/v1/getTransaction Get all transactions
+
 DELETE /api/v1/deleteTransaction/:id Delete a transaction
+
 PUT /api/v1/updateTransaction/:id Update a transaction
 
 ## 🎯 Technologies Used
