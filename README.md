@@ -31,7 +31,7 @@ sql
 
 PORT=5000
 DB_NAME=expense_tracker
-DB_USER=root
+DB_USER=<DB_USER>
 DB_PASSWORD=yourpassword 
 ```
 
