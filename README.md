@@ -109,6 +109,6 @@ Run npm run dev for the backend
 Run npm start for the frontend
 Enjoy tracking your expenses! 🚀🔥
 
-![Screenshot 2025-02-01 180312](https://github.com/user-attachments/assets/7b92e216-6654-40fe-8280-ed7fc1b8d5c0)
-![Screenshot 2025-02-01 180338](https://github.com/user-attachments/assets/0f7fa950-bf39-4277-9268-9f76159bdff2)
 ![Screenshot 2025-02-01 180403](https://github.com/user-attachments/assets/9651d694-6fe8-438f-9254-08675937a14a)
+![Screenshot 2025-02-01 180338](https://github.com/user-attachments/assets/0f7fa950-bf39-4277-9268-9f76159bdff2)
+![Screenshot 2025-02-01 180312](https://github.com/user-attachments/assets/7b92e216-6654-40fe-8280-ed7fc1b8d5c0)
