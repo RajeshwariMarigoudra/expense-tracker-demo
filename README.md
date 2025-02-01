@@ -44,7 +44,8 @@ npx sequelize-cli db:migrate
 npx sequelize-cli db:migrate
 
 # 📌 Start the Backend Server
-
+cd ../server
+npm install
 npm run dev
 
 # ✅ Runs the backend on http://localhost:5000/
